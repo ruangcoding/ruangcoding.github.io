@@ -16,4 +16,4 @@ Coding:
 Logo Design:
 - [Rifqi Oktario](https://instagram.com/oktario20)
 
-[Original Repository](https://github.com/RuangCoding)
+[Original Repository](https://github.com/Mikeultron/RuangCoding)
