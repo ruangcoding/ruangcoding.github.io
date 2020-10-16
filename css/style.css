@@ -96,7 +96,7 @@ nav{
 
 nav .container{
   position: fixed;
-  right: -490px;
+  right: -100vw;
   width: 100%;
   height: 100vh;
   display: flex;
@@ -130,6 +130,12 @@ nav .links a{
   color: white;
   text-decoration: none;
   font-size: 3vw;
+  transition: .5s;
+}
+
+nav .links a:hover{
+  color: #346AD3;
+  transform: translateY(-2px);
 }
 
 nav .hamburger{
